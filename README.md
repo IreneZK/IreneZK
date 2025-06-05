@@ -6,6 +6,3 @@
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on some competitions
 - 📫 许愿考试通过~
--  
--
-  
