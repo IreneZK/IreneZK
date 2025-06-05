@@ -14,5 +14,5 @@
 - 👯 I’m looking to collaborate on some competitions
 - 📫 许愿考试通过~
 -  
-- ![PanN729's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanN729&theme=catppuccin_latte_icons=true)
+- ![IreneZK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanN729&theme=catppuccin_latte_icons=true)
   
